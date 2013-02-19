@@ -1,0 +1,4 @@
+This is a sample file.
+Lorem ipsum dolor sit amet.
+Hello, world!
+Foo, bar, baz, qux.
